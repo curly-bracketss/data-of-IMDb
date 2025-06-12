@@ -1,0 +1,1707 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "1984",
+            "author": "J.K. Rowling",
+            "price": 20.5,
+            "saleRate": 0,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/066de26e-1fba-11ed-a50a-503eaa120fc7_2.jpg.webp",
+            "description": "1984 əsəri J.K. Rowling tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Klassiklər",
+            "soldCount": 98,
+            "stockCount": 11,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 219,
+            "code": 9789892187222,
+            "pageCount": 596,
+            "cover": "yumşaq",
+            "publisher": "Penguin Books"
+        },
+        {
+            "id": 2,
+            "title": "One Hundred Years of Solitude",
+            "author": "J.R.R. Tolkien",
+            "price": 34.05,
+            "saleRate": 10,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/999e78a7-e0b6-11eb-a4ef-503eaa120fc7_1.jpg.webp",
+            "description": "One Hundred Years of Solitude əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Tarix",
+            "altCateg": "Gənclər",
+            "soldCount": 50,
+            "stockCount": 20,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 334,
+            "code": 9789765504780,
+            "pageCount": 504,
+            "cover": "yumşaq",
+            "publisher": "AliNino"
+        },
+        {
+            "id": 4,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "George Orwell",
+            "price": 20.75,
+            "saleRate": 15,
+            "img": "https://cdn11.bigcommerce.com/s-igquupw3/images/stencil/1280x1280/products/1677964/38977811/9781338878929__51286.1744792150.jpg?c=2",
+            "description": "Harry Potter and the Sorcerer's Stone əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Psixologiya",
+            "altCateg": "Müasir",
+            "soldCount": 82,
+            "stockCount": 41,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 309,
+            "code": 9785663891685,
+            "pageCount": 528,
+            "cover": "bərk",
+            "publisher": "Xan"
+        },
+        {
+            "id": 5,
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 13.75,
+            "saleRate": 0,
+            "img": "https://cdn.waterstones.com/bookjackets/large/9780/1410/9780141036144.jpg",
+            "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Klassiklər",
+            "soldCount": 90,
+            "stockCount": 47,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 413,
+            "code": 9781495833209,
+            "pageCount": 620,
+            "cover": "yumşaq",
+            "publisher": "AliNino"
+        },
+        {
+            "id": 6,
+            "title": "The Adventures of Tom Sawyer",
+            "author": "Gabriel García Márquez",
+            "price": 15.74,
+            "saleRate": 10,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/679d0099-504d-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "description": "The Adventures of Tom Sawyer əsəri Gabriel García Márquez tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Uşaq",
+            "soldCount": 91,
+            "stockCount": 46,
+            "lang": [
+                "AZ",
+                "TR"
+            ],
+            "view": 455,
+            "code": 9783143028529,
+            "pageCount": 701,
+            "cover": "bərk",
+            "publisher": "Qanun"
+        },
+        {
+            "id": 7,
+            "title": "One Hundred Years of Solitude",
+            "author": "Fyodor Dostoevsky",
+            "price": 16.21,
+            "saleRate": 10,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/999e78a7-e0b6-11eb-a4ef-503eaa120fc7_1.jpg.webp",
+            "description": "One Hundred Years of Solitude əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Psixologiya",
+            "altCateg": "Klassiklər",
+            "soldCount": 53,
+            "stockCount": 5,
+            "lang": [
+                "EN",
+                "RU"
+            ],
+            "view": 373,
+            "code": 9785802557478,
+            "pageCount": 840,
+            "cover": "yumşaq",
+            "publisher": "Xan"
+        },
+        {
+            "id": 8,
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "price": 27.48,
+            "saleRate": 0,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/9f95da7a-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+            "description": "Kafka on the Shore is a surreal novel by Haruki Murakami that explores themes of fate, consciousness, and metaphysical mysteries through the intertwined stories of a teenage boy and an elderly man.",
+            "category": "Fiction",
+            "altCateg": "Magical Realism",
+            "soldCount": 43,
+            "stockCount": 3,
+            "lang": [
+                "EN",
+                "JP",
+                "AZ"
+            ],
+            "view": 317,
+            "code": 9781400079278,
+            "pageCount": 505,
+            "cover": "soft",
+            "publisher": "Vintage International"
+        },
+        {
+            "id": 9,
+            "title": "The Hobbit",
+            "author": "Ernest Hemingway",
+            "price": 30.82,
+            "saleRate": 15,
+            "img": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
+            "description": "The Hobbit əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Psixologiya",
+            "altCateg": "Klassiklər",
+            "soldCount": 93,
+            "stockCount": 39,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 243,
+            "code": 9786552709365,
+            "pageCount": 647,
+            "cover": "bərk",
+            "publisher": "Teas Press"
+        },
+        {
+            "id": 10,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "price": 24.02,
+            "saleRate": 15,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/bde67ce4-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+            "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Psixologiya",
+            "altCateg": "Roman",
+            "soldCount": 45,
+            "stockCount": 6,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 216,
+            "code": 9785896852382,
+            "pageCount": 408,
+            "cover": "bərk",
+            "publisher": "Teas Press"
+        },
+        {
+            "id": 11,
+            "title": "The Old Man and the Sea",
+            "author": "Fyodor Dostoevsky ",
+            "price": 18.28,
+            "saleRate": 10,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/4d4882f9-34f6-11ed-a50a-503eaa120fc7_1.jpg.webp",
+            "description": "The Old Man and the Sea əsəri Fyodor Dostoevsky  tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Klassiklər",
+            "soldCount": 13,
+            "stockCount": 35,
+            "lang": [
+                "AZ",
+                "TR"
+            ],
+            "view": 484,
+            "code": 9782277052390,
+            "pageCount": 376,
+            "cover": "bərk",
+            "publisher": "Penguin Books"
+        },
+        {
+            "id": 12,
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 29.19,
+            "saleRate": 20,
+            "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+            "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Fantastik",
+            "altCateg": "Klassiklər",
+            "soldCount": 0,
+            "stockCount": 10,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 130,
+            "code": 9780451524935,
+            "pageCount": 328,
+            "cover": "bərk",
+            "publisher": "Signet Classic"
+        },
+        {
+            "id": 13,
+            "title": "The Old Man and the Sea",
+            "author": "Ernest Hemingway",
+            "price": 25.19,
+            "saleRate": 15,
+            "img": "https://covers.openlibrary.org/b/isbn/9780684801223-L.jpg",
+            "description": "The Old Man and the Sea əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Müasir",
+            "soldCount": 96,
+            "stockCount": 9,
+            "lang": [
+                "EN",
+                "RU"
+            ],
+            "view": 134,
+            "code": 9780684801223,
+            "pageCount": 127,
+            "cover": "yumşaq",
+            "publisher": "Scribner"
+        },
+        {
+            "id": 14,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "price": 23.29,
+            "saleRate": 20,
+            "img": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+            "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Klassik",
+            "altCateg": "Gənclər",
+            "soldCount": 25,
+            "stockCount": 46,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 469,
+            "code": 9780547928227,
+            "pageCount": 300,
+            "cover": "yumşaq",
+            "publisher": "Mariner Books"
+        },
+        {
+            "id": 15,
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "price": 12.72,
+            "saleRate": 20,
+            "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+            "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Gənclər",
+            "soldCount": 31,
+            "stockCount": 10,
+            "lang": [
+                "EN",
+                "RU"
+            ],
+            "view": 120,
+            "code": 9780099458326,
+            "pageCount": 505,
+            "cover": "bərk",
+            "publisher": "Vintage"
+        },
+        {
+            "id": 16,
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 7.05,
+            "saleRate": 25,
+            "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+            "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Uşaq",
+            "soldCount": 76,
+            "stockCount": 10,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 268,
+            "code": 9780451524935,
+            "pageCount": 328,
+            "cover": "yumşaq",
+            "publisher": "Signet Classic"
+        },
+        {
+            "id": 17,
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "price": 8.12,
+            "saleRate": 0,
+            "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+            "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Uşaq",
+            "soldCount": 25,
+            "stockCount": 10,
+            "lang": [
+                "AZ",
+                "EN"
+            ],
+            "view": 201,
+            "code": 9780099458326,
+            "pageCount": 505,
+            "cover": "yumşaq",
+            "publisher": "Vintage"
+        },
+        {
+            "id": 3,
+            "title": "Martin İden",
+            "author": "CEK LONDON",
+            "price": 13.90,
+            "saleRate": 20,
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/martin-iden-front-book__1_.jpg.webp",
+            "description": "'Martin İden' Cek Londonun sayca 21-ci romanıdır və avtobioqrafik xarakter daşıyır. Yazıçı romanda şəxsiyyətin mənəvi süqutuna çıraq tutur. Martin İden mənsub olduğu sosial təbəqədən qopub yad cisim kimi burjua dünyasına düşür, Morzlar ailəsi onun mənəvi aləmini tar-mar edir. Martin İden Cek Londonun özüdür və ən dəhşətlisi də budur ki, yazıçı bu romanda öz sonunu dəqiqliklə təsvir edib. 'Martin İden' cəsarətin, gücün, ümidin, inamın, ağlın, sevginin, əməyin romanıdır. Adi bir matros olan Martin 'iynə ilə gor qazaraq' dövrünün ən məşhur yazıçısına çevrilir. Ruf üçün, sevdiyi qadın üçün... Bəs Martinin itirdiyi cənnət və ya qazandığı cəhənnəm nələrdən ibarətdir? Hansı Martin daha xoşbəxt idi? 'Martin İden' in özünəməxsus sehri var və çox az adam bu sehrdən yayına bilir. Romanı oxuyan insanlarda yazıçı olmağa böyük həvəs yaranır. Bir çox məşhur yazıçılara stimul verən məhz bu əsər olub. Kitabı əlinizdən yerə qoymaq o qədər də asan olmayacaq və təsirindən uzun müddət, bəlkə də, bir ömür boyu çıxa bilməyəcəksiniz.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Klassiklər",
+            "soldCount":2,
+            "stockCount": 10,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 293,
+            "code": 9789952310344,
+            "pageCount": 490,
+            "cover": "bərk",
+            "publisher":"Teas Press"
+        },
+        {
+            "id": 18,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "price": 18.1,
+            "saleRate": 20,
+            "img": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
+            "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Tarix",
+            "altCateg": "Gənclər",
+            "soldCount": 85,
+            "stockCount": 3,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 293,
+            "code": 9780140449136,
+            "pageCount": 671,
+            "cover": "bərk",
+            "publisher": "Penguin Classics"
+        },
+        {
+            "id": 19,
+            "title": "The Adventures of Tom Sawyer",
+            "author": "Mark Twain",
+            "price": 28.96,
+            "saleRate": 20,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+            "description": "The Adventures of Tom Sawyer əsəri Mark Twain tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Müasir",
+            "soldCount": 89,
+            "stockCount": 38,
+            "lang": [
+                "AZ",
+                "TR"
+            ],
+            "view": 305,
+            "code": 9781856869329,
+            "pageCount": 624,
+            "cover": "yumşaq",
+            "publisher": "Xan"
+        },
+        {
+            "id": 20,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "price": 20.65,
+            "saleRate": 25,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+            "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Fantastik",
+            "altCateg": "Müasir",
+            "soldCount": 58,
+            "stockCount": 44,
+            "lang": [
+                "AZ",
+                "EN"
+            ],
+            "view": 406,
+            "code": 9782923401769,
+            "pageCount": 728,
+            "cover": "bərk",
+            "publisher": "AliNino"
+        },
+        {
+            "id": 21,
+            "title": "1984",
+            "author": "J.K. Rowling",
+            "price": 20.5,
+            "saleRate": 0,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/066de26e-1fba-11ed-a50a-503eaa120fc7_2.jpg.webp",
+            "description": "1984 əsəri J.K. Rowling tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Klassiklər",
+            "soldCount": 98,
+            "stockCount": 11,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 219,
+            "code": 9789892187222,
+            "pageCount": 596,
+            "cover": "yumşaq",
+            "publisher": "Penguin Books"
+        },
+        {
+            "id": 22,
+            "title": "One Hundred Years of Solitude",
+            "author": "J.R.R. Tolkien",
+            "price": 34.05,
+            "saleRate": 10,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/999e78a7-e0b6-11eb-a4ef-503eaa120fc7_1.jpg.webp",
+            "description": "One Hundred Years of Solitude əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Tarix",
+            "altCateg": "Gənclər",
+            "soldCount": 50,
+            "stockCount": 20,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 334,
+            "code": 9789765504780,
+            "pageCount": 504,
+            "cover": "yumşaq",
+            "publisher": "AliNino"
+        },
+        {
+            "id": 23,
+            "title": "Anna Karenina",
+            "author": "Lev Nikolayeviç Tolstoy",
+            "price":15.90 ,
+            "saleRate": 20,
+            "img": "https://www.libraff.az/images/thumbnails/600/600/from_1c/5596928a-6e72-11ee-a51c-503eaa120fc7_1.jpg.webp",
+            "description": "Mənim ilk həqiqi romanım... “Anna Karenina”nı tam haqlı olaraq dünya ədəbiyyatının məhəbbət haqda ən məşhur və ən populyar romanı adlandırırlar. Bu əsər insan qəlbinin ən mübhəm, ən sirli, ən dərin qatlarına nüfuz edir, insan ruhunun qeyri-adi gücünü göstərir. Gənc zabitə aşiq olan, heç nəyə, heç kimə baxmayaraq, ərini, ailəsini atan gənc və gözəl bir qadının hekayəsi ailə, vicdan, ictimai borc anlayışlarına əvvəlki ənənəvi baxışları dəyişir. Mədəniyyət tarixinin şəksiz ədəbi incilərindən olan bu əsərdə insan psixologiyası ən xırda çalarlarına qədər zərgər dəqiqliyi ilə işlənib. “Anna Karenina” sadəcə sevgi romanı deyil, ailə, cəmiyyət və həyat haqda bütöv bir elmdir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Klassik poemalar",
+            "soldCount": 82,
+            "stockCount": 41,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 309,
+            "code": 9789952563306,
+            "pageCount": 880,
+            "cover": "bərk",
+            "publisher": "Teas Press"
+        },
+        {
+            "id": 24,
+            "title": "Harry Potter and the Sorcerer's Stone",
+            "author": "George Orwell",
+            "price": 20.75,
+            "saleRate": 15,
+            "img": "https://cdn11.bigcommerce.com/s-igquupw3/images/stencil/1280x1280/products/1677964/38977811/9781338878929__51286.1744792150.jpg?c=2",
+            "description": "Harry Potter and the Sorcerer's Stone əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Psixologiya",
+            "altCateg": "Müasir",
+            "soldCount": 82,
+            "stockCount": 41,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 309,
+            "code": 9785663891685,
+            "pageCount": 528,
+            "cover": "bərk",
+            "publisher": "Xan"
+        },
+        {
+            "id": 25,
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 13.75,
+            "saleRate": 0,
+            "img": "https://cdn.waterstones.com/bookjackets/large/9780/1410/9780141036144.jpg",
+            "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Klassiklər",
+            "soldCount": 90,
+            "stockCount": 47,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 413,
+            "code": 9781495833209,
+            "pageCount": 620,
+            "cover": "yumşaq",
+            "publisher": "AliNino"
+        },
+        {
+            "id": 26,
+            "title": "The Adventures of Tom Sawyer",
+            "author": "Gabriel García Márquez",
+            "price": 15.74,
+            "saleRate": 10,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/679d0099-504d-11eb-a4d2-503eaa128442_1.jpg.webp",
+            "description": "The Adventures of Tom Sawyer əsəri Gabriel García Márquez tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Uşaq",
+            "soldCount": 91,
+            "stockCount": 46,
+            "lang": [
+                "AZ",
+                "TR"
+            ],
+            "view": 455,
+            "code": 9783143028529,
+            "pageCount": 701,
+            "cover": "bərk",
+            "publisher": "Qanun"
+        },
+        {
+            "id": 27,
+            "title": "One Hundred Years of Solitude",
+            "author": "Fyodor Dostoevsky",
+            "price": 16.21,
+            "saleRate": 10,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/999e78a7-e0b6-11eb-a4ef-503eaa120fc7_1.jpg.webp",
+            "description": "One Hundred Years of Solitude əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Psixologiya",
+            "altCateg": "Klassiklər",
+            "soldCount": 53,
+            "stockCount": 5,
+            "lang": [
+                "EN",
+                "RU"
+            ],
+            "view": 373,
+            "code": 9785802557478,
+            "pageCount": 840,
+            "cover": "yumşaq",
+            "publisher": "Xan"
+        },
+        {
+            "id": 28,
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "price": 27.48,
+            "saleRate": 0,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/9f95da7a-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+            "description": "Kafka on the Shore is a surreal novel by Haruki Murakami that explores themes of fate, consciousness, and metaphysical mysteries through the intertwined stories of a teenage boy and an elderly man.",
+            "category": "Fiction",
+            "altCateg": "Magical Realism",
+            "soldCount": 43,
+            "stockCount": 3,
+            "lang": [
+                "EN",
+                "JP",
+                "AZ"
+            ],
+            "view": 317,
+            "code": 9781400079278,
+            "pageCount": 505,
+            "cover": "soft",
+            "publisher": "Vintage International"
+        },
+        {
+            "id": 29,
+            "title": "The Hobbit",
+            "author": "Ernest Hemingway",
+            "price": 30.82,
+            "saleRate": 15,
+            "img": "https://m.media-amazon.com/images/I/712cDO7d73L._AC_UF1000,1000_QL80_.jpg",
+            "description": "The Hobbit əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Psixologiya",
+            "altCateg": "Klassiklər",
+            "soldCount": 93,
+            "stockCount": 39,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 243,
+            "code": 9786552709365,
+            "pageCount": 647,
+            "cover": "bərk",
+            "publisher": "Teas Press"
+        },
+        {
+            "id": 30,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "price": 24.02,
+            "saleRate": 15,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/bde67ce4-b11c-11ee-a54d-503eaa120fc7_1.jpg.webp",
+            "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Psixologiya",
+            "altCateg": "Roman",
+            "soldCount": 45,
+            "stockCount": 6,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 216,
+            "code": 9785896852382,
+            "pageCount": 408,
+            "cover": "bərk",
+            "publisher": "Teas Press"
+        },
+        {
+            "id": 31,
+            "title": "The Old Man and the Sea",
+            "author": "Fyodor Dostoevsky ",
+            "price": 18.28,
+            "saleRate": 10,
+            "img": "https://www.libraff.az/images/thumbnails/400/600/from_1c/4d4882f9-34f6-11ed-a50a-503eaa120fc7_1.jpg.webp",
+            "description": "The Old Man and the Sea əsəri Fyodor Dostoevsky  tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Klassiklər",
+            "soldCount": 13,
+            "stockCount": 35,
+            "lang": [
+                "AZ",
+                "TR"
+            ],
+            "view": 484,
+            "code": 9782277052390,
+            "pageCount": 376,
+            "cover": "bərk",
+            "publisher": "Penguin Books"
+        },
+        {
+            "id": 32,
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 29.19,
+            "saleRate": 20,
+            "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+            "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Fantastik",
+            "altCateg": "Klassiklər",
+            "soldCount": 0,
+            "stockCount": 10,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 130,
+            "code": 9780451524935,
+            "pageCount": 328,
+            "cover": "bərk",
+            "publisher": "Signet Classic"
+        },
+        {
+            "id": 33,
+            "title": "The Old Man and the Sea",
+            "author": "Ernest Hemingway",
+            "price": 25.19,
+            "saleRate": 15,
+            "img": "https://covers.openlibrary.org/b/isbn/9780684801223-L.jpg",
+            "description": "The Old Man and the Sea əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Müasir",
+            "soldCount": 96,
+            "stockCount": 9,
+            "lang": [
+                "EN",
+                "RU"
+            ],
+            "view": 134,
+            "code": 9780684801223,
+            "pageCount": 127,
+            "cover": "yumşaq",
+            "publisher": "Scribner"
+        },
+        {
+            "id": 34,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "price": 23.29,
+            "saleRate": 20,
+            "img": "https://covers.openlibrary.org/b/isbn/9780547928227-L.jpg",
+            "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Klassik",
+            "altCateg": "Gənclər",
+            "soldCount": 25,
+            "stockCount": 46,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 469,
+            "code": 9780547928227,
+            "pageCount": 300,
+            "cover": "yumşaq",
+            "publisher": "Mariner Books"
+        },
+        {
+            "id": 35,
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "price": 12.72,
+            "saleRate": 20,
+            "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+            "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Gənclər",
+            "soldCount": 31,
+            "stockCount": 10,
+            "lang": [
+                "EN",
+                "RU"
+            ],
+            "view": 120,
+            "code": 9780099458326,
+            "pageCount": 505,
+            "cover": "bərk",
+            "publisher": "Vintage"
+        },
+        {
+            "id": 36,
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 7.05,
+            "saleRate": 25,
+            "img": "https://covers.openlibrary.org/b/isbn/9780451524935-L.jpg",
+            "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Uşaq",
+            "soldCount": 76,
+            "stockCount": 10,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 268,
+            "code": 9780451524935,
+            "pageCount": 328,
+            "cover": "yumşaq",
+            "publisher": "Signet Classic"
+        },
+        {
+            "id": 37,
+            "title": "Kafka on the Shore",
+            "author": "Haruki Murakami",
+            "price": 8.12,
+            "saleRate": 0,
+            "img": "https://covers.openlibrary.org/b/isbn/9780099458326-L.jpg",
+            "description": "Kafka on the Shore əsəri Haruki Murakami tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Uşaq",
+            "soldCount": 25,
+            "stockCount": 10,
+            "lang": [
+                "AZ",
+                "EN"
+            ],
+            "view": 201,
+            "code": 9780099458326,
+            "pageCount": 505,
+            "cover": "yumşaq",
+            "publisher": "Vintage"
+        },
+        {
+            "id": 38,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "price": 18.1,
+            "saleRate": 20,
+            "img": "https://covers.openlibrary.org/b/isbn/9780140449136-L.jpg",
+            "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Tarix",
+            "altCateg": "Gənclər",
+            "soldCount": 85,
+            "stockCount": 3,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 293,
+            "code": 9780140449136,
+            "pageCount": 671,
+            "cover": "bərk",
+            "publisher": "Penguin Classics"
+        },
+        {
+            "id": 42,
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 29.19,
+            "saleRate": 20,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+            "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Fantastik",
+            "altCateg": "Klassiklər",
+            "soldCount": 0,
+            "stockCount": 10,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 130,
+            "code": 9783596215577,
+            "pageCount": 520,
+            "cover": "bərk",
+            "publisher": "Xan"
+        },
+        {
+            "id": 43,
+            "title": "The Old Man and the Sea",
+            "author": "Ernest Hemingway",
+            "price": 25.19,
+            "saleRate": 15,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
+            "description": "The Old Man and the Sea əsəri Ernest Hemingway tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Müasir",
+            "soldCount": 96,
+            "stockCount": 9,
+            "lang": [
+                "EN",
+                "RU"
+            ],
+            "view": 134,
+            "code": 9781587736295,
+            "pageCount": 711,
+            "cover": "yumşaq",
+            "publisher": "Qanun"
+        },
+        {
+            "id": 44,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "price": 23.29,
+            "saleRate": 20,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+            "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Klassik",
+            "altCateg": "Gənclər",
+            "soldCount": 25,
+            "stockCount": 46,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 469,
+            "code": 9783237186886,
+            "pageCount": 314,
+            "cover": "yumşaq",
+            "publisher": "Teas Press"
+        },
+        {
+            "id": 46,
+            "title": "1984",
+            "author": "George Orwell",
+            "price": 7.05,
+            "saleRate": 25,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/71kxa1-0mfL.jpg",
+            "description": "1984 əsəri George Orwell tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Bədii ədəbiyyat",
+            "altCateg": "Uşaq",
+            "soldCount": 76,
+            "stockCount": 10,
+            "lang": [
+                "AZ",
+                "EN",
+                "RU"
+            ],
+            "view": 268,
+            "code": 9787833777923,
+            "pageCount": 755,
+            "cover": "yumşaq",
+            "publisher": "Penguin Books"
+        },
+        {
+            "id": 48,
+            "title": "Crime and Punishment",
+            "author": "Fyodor Dostoevsky",
+            "price": 18.1,
+            "saleRate": 20,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/81eB+7+CkUL.jpg",
+            "description": "Crime and Punishment əsəri Fyodor Dostoevsky tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Tarix",
+            "altCateg": "Gənclər",
+            "soldCount": 85,
+            "stockCount": 3,
+            "lang": [
+                "TR",
+                "EN"
+            ],
+            "view": 293,
+            "code": 9782260214747,
+            "pageCount": 996,
+            "cover": "bərk",
+            "publisher": "Teas Press"
+        },
+        {
+            "id": 49,
+            "title": "The Adventures of Tom Sawyer",
+            "author": "Mark Twain",
+            "price": 28.96,
+            "saleRate": 20,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/81OthjkJBuL.jpg",
+            "description": "The Adventures of Tom Sawyer əsəri Mark Twain tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Detektiv",
+            "altCateg": "Müasir",
+            "soldCount": 89,
+            "stockCount": 38,
+            "lang": [
+                "AZ",
+                "TR"
+            ],
+            "view": 305,
+            "code": 9781856869329,
+            "pageCount": 624,
+            "cover": "yumşaq",
+            "publisher": "Xan"
+        },
+        {
+            "id": 50,
+            "title": "The Hobbit",
+            "author": "J.R.R. Tolkien",
+            "price": 20.65,
+            "saleRate": 25,
+            "img": "https://images-na.ssl-images-amazon.com/images/I/91b0C2YNSrL.jpg",
+            "description": "The Hobbit əsəri J.R.R. Tolkien tərəfindən yazılıb. Bu kitab oxucunu dərin psixoloji və fəlsəfi düşüncələrə yönəldir.",
+            "category": "Fantastik",
+            "altCateg": "Müasir",
+            "soldCount": 58,
+            "stockCount": 44,
+            "lang": [
+                "AZ",
+                "EN"
+            ],
+            "view": 406,
+            "code": 9782923401769,
+            "pageCount": 728,
+            "cover": "bərk",
+            "publisher": "AliNino"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "comments": [
+                "Fantastik süjet xətti var.",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 2,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Hekayə məni çox təsirləndirdi.",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 3,
+            "comments": [
+                "Əla kitab idi!",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 4,
+            "comments": [
+                "Fantastik süjet xətti var.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 5,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Müəllifin dili çox gözəldi.",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 6,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 7,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 8,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 9,
+            "comments": [
+                "Fantastik süjet xətti var.",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 10,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 11,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Hekayə məni çox təsirləndirdi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 12,
+            "comments": [
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 13,
+            "comments": [
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 14,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Fantastik süjet xətti var.",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 15,
+            "comments": [
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 16,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 17,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Əla kitab idi!",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 18,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 19,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Hekayə məni çox təsirləndirdi.",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 20,
+            "comments": [
+                "Əla kitab idi!",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 21,
+            "comments": [
+                "Əla kitab idi!",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 22,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 23,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 24,
+            "comments": [
+                "Əla kitab idi!",
+                "Bir az darıxdırıcı idi.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 25,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 26,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 27,
+            "comments": [
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 28,
+            "comments": [
+                "Əla kitab idi!",
+                "Fantastik süjet xətti var.",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 29,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Hekayə məni çox təsirləndirdi.",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 30,
+            "comments": [
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 31,
+            "comments": [
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 32,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 33,
+            "comments": [
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 34,
+            "comments": [
+                "Əla kitab idi!",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 35,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Müəllifin dili çox gözəldi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 36,
+            "comments": [
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 37,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 38,
+            "comments": [
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 39,
+            "comments": [
+                "Əla kitab idi!",
+                "Müəllifin dili çox gözəldi.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 40,
+            "comments": [
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 41,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 42,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Fantastik süjet xətti var.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 43,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Hekayə məni çox təsirləndirdi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 44,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 45,
+            "comments": [
+                "Əla kitab idi!",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 46,
+            "comments": [
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 47,
+            "comments": [
+                "Əla kitab idi!",
+                "Müəllifin dili çox gözəldi.",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 48,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 49,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 50,
+            "comments": [
+                "Fantastik süjet xətti var.",
+                "Bir az darıxdırıcı idi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 51,
+            "comments": [
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 52,
+            "comments": [
+                "Əla kitab idi!",
+                "Oxumağa dəyər!",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 53,
+            "comments": [
+                "Əla kitab idi!",
+                "Fantastik süjet xətti var.",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 54,
+            "comments": [
+                "Fantastik süjet xətti var.",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 55,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 56,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 57,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 58,
+            "comments": [
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 59,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 60,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 61,
+            "comments": [
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 62,
+            "comments": [
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 63,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Müəllifin dili çox gözəldi.",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 64,
+            "comments": [
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 65,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Əla kitab idi!",
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 66,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 67,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 68,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Müəllifin dili çox gözəldi.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 69,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 70,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Əla kitab idi!",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 71,
+            "comments": [
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 72,
+            "comments": [
+                "Əla kitab idi!",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 73,
+            "comments": [
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 74,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 75,
+            "comments": [
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 76,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 77,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Hekayə məni çox təsirləndirdi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 78,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 79,
+            "comments": [
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 80,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 81,
+            "comments": [
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 82,
+            "comments": [
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 83,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Bir az darıxdırıcı idi.",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 84,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 85,
+            "comments": [
+                "Hekayə məni çox təsirləndirdi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 86,
+            "comments": [
+                "Müəllifin dili çox gözəldi.",
+                "Fantastik süjet xətti var.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 87,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 88,
+            "comments": [
+                "Əla kitab idi!",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 89,
+            "comments": [
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 90,
+            "comments": [
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 91,
+            "comments": [
+                "Əla kitab idi!",
+                "Hekayə məni çox təsirləndirdi.",
+                "Əla kitab idi!"
+            ]
+        },
+        {
+            "id": 92,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 93,
+            "comments": [
+                "Oxumağa dəyər!"
+            ]
+        },
+        {
+            "id": 94,
+            "comments": [
+                "Oxumağa dəyər!",
+                "Əla kitab idi!",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 95,
+            "comments": [
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 96,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Hekayə məni çox təsirləndirdi.",
+                "Fantastik süjet xətti var."
+            ]
+        },
+        {
+            "id": 97,
+            "comments": [
+                "Fantastik süjet xətti var.",
+                "Bir az darıxdırıcı idi."
+            ]
+        },
+        {
+            "id": 98,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        },
+        {
+            "id": 99,
+            "comments": [
+                "Müəllifin dili çox gözəldi."
+            ]
+        },
+        {
+            "id": 100,
+            "comments": [
+                "Bir az darıxdırıcı idi.",
+                "Əla kitab idi!",
+                "Hekayə məni çox təsirləndirdi."
+            ]
+        }
+    ]
+}
