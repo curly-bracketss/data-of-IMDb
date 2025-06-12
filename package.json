@@ -1,19 +1,15 @@
 {
-  "name": "libraff-data",
+  "name": "bankingapp-mock-api",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start" : "node server.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
-  
   "dependencies": {
-    "json-server": "^0.17.0" // or the version you're using
-  },
-  "engines": {
-  "node": "14.x" // specify the version you need
-}
+    "json-server": "^0.16.2"
+  }
 }
