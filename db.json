@@ -67,5 +67,9 @@
             }
         
     ],
-    "menuImages":["https://www.svgrepo.com/show/334673/film.svg"]
+    "menuImages":["https://www.svgrepo.com/show/334673/film.svg",
+    "https://www.svgrepo.com/show/489193/tv.svg",
+    "https://www.svgrepo.com/show/334979/videos.svg",
+    "https://www.svgrepo.com/show/521200/people.svg",
+    "https://www.svgrepo.com/show/375240/world.svg"]
 }
