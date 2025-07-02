@@ -51,7 +51,7 @@
             }
         }
     ],
-    "users": [
+    "users": [                                                                                                                                                                                      
         
             {
                 "id": 1,
@@ -66,5 +66,6 @@
                 "lastLogin": null
             }
         
-    ]
+    ],
+    "menuImages":["https://www.svgrepo.com/show/334673/film.svg"]
 }
