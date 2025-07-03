@@ -65,7 +65,7 @@
         {
       "id": "awards-events",
       "name": "Awards & Events",
-      "icon": "https://www.svgrepo.com/show/521200/people.svg",
+      "icon": "https://www.svgrepo.com/show/394794/circle-star.svg",
       "items": [
                 { "name": "Oscars", "url": "/oscars"
                 },
@@ -92,7 +92,7 @@
         {
       "id": "celebs",
       "name": "Celebs",
-      "icon": "https://www.svgrepo.com/show/375240/world.svg",
+      "icon": "https://www.svgrepo.com/show/507443/users.svg",
       "items": [
                 { "name": "Born Today", "url": "/birthdays"
                 },
@@ -105,7 +105,7 @@
         {
       "id": "community",
       "name": "Community",
-      "icon": "https://www.svgrepo.com/show/507443/users.svg",
+      "icon": "https://www.svgrepo.com/show/375240/world.svg",
       "items": [
                 { "name": "Help Center", "url": "/help"
                 },
