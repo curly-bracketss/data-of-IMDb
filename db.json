@@ -1,54 +1,119 @@
 {
+    
     "menu": [
         {
-            "Movies": {
-                "Release Calendar": "/movies/release-calendar",
-                "Top 250 Movies": "/chart/top",
-                "Most Popular Movies": "/chart/moviemeter",
-                "Browse Movies by Genre": "/feature/genre",
-                "Top Box Office": "/chart/boxoffice",
-                "Showtimes & Tickets": "/showtimes",
-                "Movie News": "/news/movie",
-                "India Movie Spotlight": "/india"
-            },
-            "TV Shows": {
-                "What's on TV & Streaming": "/tv",
-                "Top 250 TV Shows": "/chart/toptv",
-                "Most Popular TV Shows": "/chart/tvmeter",
-                "Browse TV Shows by Genre": "/feature/tv-genre",
-                "TV News": "/news/tv"
-            },
-            "Watch": {
-                "What to Watch": "/what-to-watch",
-                "Latest Trailers": "/trailers",
-                "IMDb Originals": "/imdb-originals",
-                "IMDb Picks": "/picks",
-                "IMDb Spotlight": "/spotlight",
-                "Family Entertainment Guide": "/family-entertainment",
-                "IMDb Podcasts": "/podcasts"
-            },
-            "Awards & Events": {
-                "Oscars": "/oscars",
-                "Emmys": "/emmys",
-                "San Diego Comic-Con": "/comic-con",
-                "Summer Watch Guide": "/summer-guide",
-                "Best Of So Far": "/best-of",
-                "Disability Pride Month": "/disability-pride",
-                "STARmeter Awards": "/starmeter-awards",
-                "Awards Central": "/awards-central",
-                "Festival Central": "/festival-central",
-                "All Events": "/events"
-            },
-            "Celebs": {
-                "Born Today": "/birthdays",
-                "Most Popular Celebs": "/chart/starmeter",
-                "Celebrity News": "/news/celebrity"
-            },
-            "Community": {
-                "Help Center": "/help",
-                "Contributor Zone": "/contributor-zone",
-                "Polls": "/polls"
-            }
+      "id": "movies",
+      "name": "Movies",
+      "icon": "https://www.svgrepo.com/show/334673/film.svg",
+      "items": [
+                { "name": "Release Calendar", "url": "/movies/release-calendar"
+                },
+                { "name": "Top 250 Movies", "url": "/chart/top"
+                },
+                { "name": "Most Popular Movies", "url": "/chart/moviemeter"
+                },
+                { "name": "Browse Movies by Genre", "url": "/feature/genre"
+                },
+                { "name": "Top Box Office", "url": "/chart/boxoffice"
+                },
+                { "name": "Showtimes & Tickets", "url": "/showtimes"
+                },
+                { "name": "Movie News", "url": "/news/movie"
+                },
+                { "name": "India Movie Spotlight", "url": "/india"
+                }
+            ]
+        },
+        {
+      "id": "tv-shows",
+      "name": "TV Shows",
+      "icon": "https://www.svgrepo.com/show/489193/tv.svg",
+      "items": [
+                { "name": "What's on TV & Streaming", "url": "/tv"
+                },
+                { "name": "Top 250 TV Shows", "url": "/chart/toptv"
+                },
+                { "name": "Most Popular TV Shows", "url": "/chart/tvmeter"
+                },
+                { "name": "Browse TV Shows by Genre", "url": "/feature/tv-genre"
+                },
+                { "name": "TV News", "url": "/news/tv"
+                }
+            ]
+        },
+        {
+      "id": "watch",
+      "name": "Watch",
+      "icon": "https://www.svgrepo.com/show/334979/videos.svg",
+      "items": [
+                { "name": "What to Watch", "url": "/what-to-watch"
+                },
+                { "name": "Latest Trailers", "url": "/trailers"
+                },
+                { "name": "IMDb Originals", "url": "/imdb-originals"
+                },
+                { "name": "IMDb Picks", "url": "/picks"
+                },
+                { "name": "IMDb Spotlight", "url": "/spotlight"
+                },
+                { "name": "Family Entertainment Guide", "url": "/family-entertainment"
+                },
+                { "name": "IMDb Podcasts", "url": "/podcasts"
+                }
+            ]
+        },
+        {
+      "id": "awards-events",
+      "name": "Awards & Events",
+      "icon": "https://www.svgrepo.com/show/521200/people.svg",
+      "items": [
+                { "name": "Oscars", "url": "/oscars"
+                },
+                { "name": "Emmys", "url": "/emmys"
+                },
+                { "name": "San Diego Comic-Con", "url": "/comic-con"
+                },
+                { "name": "Summer Watch Guide", "url": "/summer-guide"
+                },
+                { "name": "Best Of So Far", "url": "/best-of"
+                },
+                { "name": "Disability Pride Month", "url": "/disability-pride"
+                },
+                { "name": "STARmeter Awards", "url": "/starmeter-awards"
+                },
+                { "name": "Awards Central", "url": "/awards-central"
+                },
+                { "name": "Festival Central", "url": "/festival-central"
+                },
+                { "name": "All Events", "url": "/events"
+                }
+            ]
+        },
+        {
+      "id": "celebs",
+      "name": "Celebs",
+      "icon": "https://www.svgrepo.com/show/375240/world.svg",
+      "items": [
+                { "name": "Born Today", "url": "/birthdays"
+                },
+                { "name": "Most Popular Celebs", "url": "/chart/starmeter"
+                },
+                { "name": "Celebrity News", "url": "/news/celebrity"
+                }
+            ]
+        },
+        {
+      "id": "community",
+      "name": "Community",
+      "icon": "https://www.svgrepo.com/show/334979/videos.svg",
+      "items": [
+                { "name": "Help Center", "url": "/help"
+                },
+                { "name": "Contributor Zone", "url": "/contributor-zone"
+                },
+                { "name": "Polls", "url": "/polls"
+                }
+            ]
         }
     ],
     "users": [                                                                                                                                                                                      
@@ -66,10 +131,5 @@
                 "lastLogin": null
             }
         
-    ],
-    "menuImages":["https://www.svgrepo.com/show/334673/film.svg",
-    "https://www.svgrepo.com/show/489193/tv.svg",
-    "https://www.svgrepo.com/show/334979/videos.svg",
-    "https://www.svgrepo.com/show/521200/people.svg",
-    "https://www.svgrepo.com/show/375240/world.svg"]
+    ]
 }
