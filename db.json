@@ -65,7 +65,7 @@
         {
       "id": "awards-events",
       "name": "Awards & Events",
-      "icon": "https://www.svgrepo.com/show/394794/circle-star.svg",
+      "icon": "https://icons.veryicon.com/png/o/object/material-design-icons-1/star-circle.png",
       "items": [
                 { "name": "Oscars", "url": "/oscars"
                 },
@@ -92,7 +92,7 @@
         {
       "id": "celebs",
       "name": "Celebs",
-      "icon": "https://www.svgrepo.com/show/507443/users.svg",
+      "icon": "https://www.svgrepo.com/show/491510/users.svg",
       "items": [
                 { "name": "Born Today", "url": "/birthdays"
                 },
