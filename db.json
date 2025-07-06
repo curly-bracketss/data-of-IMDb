@@ -296,5 +296,432 @@
       "photoCount": 9,
       "preDescription": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by 'hunters' hired to kill them."
     }
-  ]
+  ],
+      "topFilms":[
+  {
+    "title": "The Shawshank Redemption",
+    "year": "1994",
+    "rating": "9.3",
+    "genres": [
+      "Epic",
+      "Period Drama",
+      "Prison Drama",
+      "Drama",
+      "Authentic emotion"
+    ],
+    "duration": "2 hours 22 minutes",
+    "director": "Frank Darabont",
+    "plot": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0111161/"
+  },
+  {
+    "title": "The Godfather",
+    "year": "1972",
+    "rating": "9.2",
+    "genres": [
+      "Epic",
+      "Gangster",
+      "Tragedy",
+      "Crime",
+      "Drama"
+    ],
+    "duration": "2 hours 55 minutes",
+    "director": "Lenny Montana",
+    "plot": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0068646/"
+  },
+  {
+    "title": "The Dark Knight",
+    "year": "2008",
+    "rating": "9.0",
+    "genres": [
+      "Action Epic",
+      "Epic",
+      "Superhero",
+      "Tragedy",
+      "Action"
+    ],
+    "duration": "2 hours 32 minutes",
+    "director": "Məlum deyil",
+    "plot": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0468569/"
+  },
+  {
+    "title": "The Godfather Part II",
+    "year": "1974",
+    "rating": "9.0",
+    "genres": [
+      "Epic",
+      "Gangster",
+      "Tragedy",
+      "Crime",
+      "Drama"
+    ],
+    "duration": "3 hours 22 minutes",
+    "director": "Məlum deyil",
+    "plot": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0071562/"
+  },
+  {
+    "title": "12 Angry Men",
+    "year": "1957",
+    "rating": "9.0",
+    "genres": [
+      "Legal Drama",
+      "Psychological Drama",
+      "Crime",
+      "Drama",
+      "Authentic emotion"
+    ],
+    "duration": "1 hours 36 minutes",
+    "director": "Sidney Lumet",
+    "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX190_CR0,6,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0050083/"
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "year": "2003",
+    "rating": "9.0",
+    "genres": [
+      "Action Epic",
+      "Adventure Epic",
+      "Epic",
+      "Fantasy Epic",
+      "Mountain Adventure"
+    ],
+    "duration": "3 hours 21 minutes",
+    "director": "Məlum deyil",
+    "plot": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0167260/"
+  },
+  {
+    "title": "Schindler's List",
+    "year": "1993",
+    "rating": "9.0",
+    "genres": [
+      "Docudrama",
+      "Epic",
+      "Historical Epic",
+      "Period Drama",
+      "Prison Drama"
+    ],
+    "duration": "3 hours 15 minutes",
+    "director": "Məlum deyil",
+    "plot": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0108052/"
+  },
+  {
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "rating": "8.8",
+    "genres": [
+      "Dark Comedy",
+      "Drug Crime",
+      "Gangster",
+      "Crime",
+      "Drama"
+    ],
+    "duration": "2 hours 34 minutes",
+    "director": "Məlum deyil",
+    "plot": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0110912/"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": "2001",
+    "rating": "8.9",
+    "genres": [
+      "Action Epic",
+      "Adventure Epic",
+      "Dark Fantasy",
+      "Epic",
+      "Fantasy Epic"
+    ],
+    "duration": "2 hours 58 minutes",
+    "director": "Peter Jackson",
+    "plot": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0120737/"
+  },
+  {
+    "title": "The Good, the Bad and the Ugly",
+    "year": "1966",
+    "rating": "8.8",
+    "genres": [
+      "Adventure Epic",
+      "Dark Comedy",
+      "Desert Adventure",
+      "Epic",
+      "Period Drama"
+    ],
+    "duration": "2 hours 58 minutes",
+    "director": "Məlum deyil",
+    "plot": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0060196/"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": "1994",
+    "rating": "8.8",
+    "genres": [
+      "Epic",
+      "Drama",
+      "Romance",
+      "Comedic brilliance",
+      "Friendship"
+    ],
+    "duration": "2 hours 22 minutes",
+    "director": "Məlum deyil",
+    "plot": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0109830/"
+  },
+  {
+    "title": "The Lord of the Rings: The Two Towers",
+    "year": "2002",
+    "rating": "8.8",
+    "genres": [
+      "Action Epic",
+      "Adventure Epic",
+      "Dark Fantasy",
+      "Epic",
+      "Fantasy Epic"
+    ],
+    "duration": "2 hours 59 minutes",
+    "director": "Məlum deyil",
+    "plot": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_QL75_UX190_CR0,7,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0167261/"
+  },
+  {
+    "title": "Fight Club",
+    "year": "1999",
+    "rating": "8.8",
+    "genres": [
+      "Dark Comedy",
+      "Psychological Drama",
+      "Psychological Thriller",
+      "Workplace Drama",
+      "Crime"
+    ],
+    "duration": "2 hours 19 minutes",
+    "director": "Məlum deyil",
+    "plot": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0137523/"
+  },
+  {
+    "title": "Inception",
+    "year": "2010",
+    "rating": "8.8",
+    "genres": [
+      "Action Epic",
+      "Adventure Epic",
+      "Epic",
+      "Psychological Thriller",
+      "Sci-Fi Epic"
+    ],
+    "duration": "2 hours 28 minutes",
+    "director": "Məlum deyil",
+    "plot": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt1375666/"
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": "1980",
+    "rating": "8.7",
+    "genres": [
+      "Action Epic",
+      "Adventure Epic",
+      "Dark Fantasy",
+      "Dystopian Sci-Fi",
+      "Epic"
+    ],
+    "duration": "2 hours 4 minutes",
+    "director": "Məlum deyil",
+    "plot": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_QL75_UX190_CR0,7,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0080684/"
+  },
+  {
+    "title": "The Matrix",
+    "year": "1999",
+    "rating": "8.7",
+    "genres": [
+      "Action Epic",
+      "Artificial Intelligence",
+      "Cyberpunk",
+      "Dystopian Sci-Fi",
+      "Gun Fu"
+    ],
+    "duration": "2 hours 16 minutes",
+    "director": "Məlum deyil",
+    "plot": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0133093/"
+  },
+  {
+    "title": "Goodfellas",
+    "year": "1990",
+    "rating": "8.7",
+    "genres": [
+      "Docudrama",
+      "Gangster",
+      "True Crime",
+      "Biography",
+      "Crime"
+    ],
+    "duration": "2 hours 25 minutes",
+    "director": "Martin Scorsese",
+    "plot": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0099685/"
+  },
+  {
+    "title": "Interstellar",
+    "year": "2014",
+    "rating": "8.7",
+    "genres": [
+      "Adventure Epic",
+      "Epic",
+      "Psychological Drama",
+      "Quest",
+      "Sci-Fi Epic"
+    ],
+    "duration": "2 hours 49 minutes",
+    "director": "Kip Thorne",
+    "plot": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0816692/"
+  },
+  {
+    "title": "One Flew Over the Cuckoo's Nest",
+    "year": "1975",
+    "rating": "8.7",
+    "genres": [
+      "Medical Drama",
+      "Psychological Drama",
+      "Drama",
+      "Freedom",
+      "Iconic performance"
+    ],
+    "duration": "2 hours 13 minutes",
+    "director": "Məlum deyil",
+    "plot": "A rebellious convict is sent to a psychiatric hospital for evaluation in 1963 Oregon, and encourages his docile companions to take more control of their lives and defy the tyrannical head nurse.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0073486/"
+  },
+  {
+    "title": "Se7en",
+    "year": "1995",
+    "rating": "8.6",
+    "genres": [
+      "Cop Drama",
+      "Hard-boiled Detective",
+      "Police Procedural",
+      "Psychological Drama",
+      "Psychological Thriller"
+    ],
+    "duration": "2 hours 7 minutes",
+    "director": "Məlum deyil",
+    "plot": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0114369/"
+  },
+  {
+    "title": "It's a Wonderful Life",
+    "year": "1946",
+    "rating": "8.6",
+    "genres": [
+      "Feel-Good Romance",
+      "Holiday Family",
+      "Holiday Romance",
+      "Psychological Drama",
+      "Supernatural Fantasy"
+    ],
+    "duration": "2 hours 10 minutes",
+    "director": "Donna Reed",
+    "plot": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0038650/"
+  },
+  {
+    "title": "The Silence of the Lambs",
+    "year": "1991",
+    "rating": "8.6",
+    "genres": [
+      "Police Procedural",
+      "Psychological Drama",
+      "Psychological Horror",
+      "Psychological Thriller",
+      "Serial Killer"
+    ],
+    "duration": "1 hours 58 minutes",
+    "director": "Roger Corman",
+    "plot": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0102926/"
+  },
+  {
+    "title": "Seven Samurai",
+    "year": "1954",
+    "rating": "8.6",
+    "genres": [
+      "Action Epic",
+      "Epic",
+      "Period Drama",
+      "Samurai",
+      "Action"
+    ],
+    "duration": "3 hours 27 minutes",
+    "director": "Akira Kurosawa",
+    "plot": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0047478/"
+  },
+  {
+    "title": "Saving Private Ryan",
+    "year": "1998",
+    "rating": "8.6",
+    "genres": [
+      "Epic",
+      "Period Drama",
+      "War Epic",
+      "Drama",
+      "War"
+    ],
+    "duration": "2 hours 49 minutes",
+    "director": "Məlum deyil",
+    "plot": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0120815/"
+  },
+  {
+    "title": "The Green Mile",
+    "year": "1999",
+    "rating": "8.6",
+    "genres": [
+      "Period Drama",
+      "Prison Drama",
+      "Supernatural Fantasy",
+      "Tragedy",
+      "Crime"
+    ],
+    "duration": "3 hours 9 minutes",
+    "director": "Məlum deyil",
+    "plot": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
+    "poster_url": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX190_CR0,0,190,281_.jpg",
+    "imdb_url": "https://www.imdb.com/title/tt0120689/"
+  }
+]
 }
