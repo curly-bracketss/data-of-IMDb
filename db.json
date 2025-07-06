@@ -204,5 +204,97 @@
                 "lastLogin": null
             }
         
-    ]
+    ],
+    "newFilms": [
+    {
+      "id": 1,
+      "title": "Glen Powell Is 'The Running Man",
+      "trailerDuration": 2.47,
+      "trailerUrl": "https://imdb-video.media-imdb.com/vi1122486297/1434659607842-pgv4ql-1751376199178.mp4?Expires=1751828963&Signature=lKc0q7fKt3VFlhKiPVnYmsMW3XUYT3PSoyM9gGbllRmLS3ENPoIXNPXXYozdp71qviAuENL~RmcJQ-~qo2jCDXNDm-6IrQZGS5mvxECknLW7DaCC5UmkJfQuvBaUwFnposocIOmaF2X6mCRXu5zNyd1er6aEUERixAbhxb96ljOEUh~xZvR3-Ly6BU6OkZYIWL8NR2~i-SWnu0rmDH79EPAltyCn1eGR-l0KDkPe1XJ39eod0h~VVDHQnHzcZ2hQJI8bHdl-U9OjWQsKhtFHluLkbaoy2MNYBc5j3IB-urPCLxiGERzaW6I~amlw9v15G~A4KvgIdglZRTU1LC3Zag__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "In a near-future society, The Running Man is the top-rated show on television—a deadly competition where contestants, known as Runners, must survive 30 days while being hunted by professional assassins, with every move broadcast to a bloodthirsty public and each day bringing a greater cash reward. Desperate to save his sick daughter, working-class Ben Richards (Glen Powell) is convinced by the show’s charming but ruthless producer, Dan Killian (Josh Brolin), to enter the game as a last resort. But Ben’s defiance, instincts, and grit turn him into an unexpected fan favorite—and a threat to the entire system. As ratings skyrocket, so does the danger, and Ben must outwit not just the Hunters, but a nation addicted to watching him fall.",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTczMzFjOTUtNGRlZS00MDM3LWExYjEtYWYxZDNmNzI2YTRmXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BZTY4Zjk0MDMtZTM0Ny00YTI5LThiZDktZmVhNGY3NGNmY2I4XkEyXkFqcGc@._CR382,404,2503,1408_QL75_UX500_CR0,0,500,281_.jpg",
+      "likeCount": "1.1K",
+      "reactions": {
+        "count": 362,
+        "smile": 41,
+        "light": 38,
+        "love": 263,
+        "wow": 18,
+        "sad": 1,
+        "angry": 1
+      },
+      "writers": [
+        "Michael Bacall",
+        "Stephen King",
+        "Edgar Wright"
+      ],
+      "director": "Edgar Wright",
+      "production": "Expected November 7, 2025",
+      "actors": [
+        "Glen Powell",
+        "Josh Brolin",
+        "Michael Cera"
+      ],
+      "countWishlist": "54.2K",
+      "year": 2025,
+      "genre": [
+        "Dark Comedy",
+        "Dystopian Sci-Fi",
+        "Thriller",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "videoCount": 1,
+      "photoCount": 9,
+      "preDescription": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by 'hunters' hired to kill them."
+    },
+    {
+      "id": 1,
+      "title": "5 Things 'Heads of State' Director Ilya Naishuller Needs on Set",
+      "trailerDuration": 2.47,
+      "trailerUrl": "https://imdb-video.media-imdb.com/vi3471362073/1434659607842-pgv4ql-1751488391962.mp4?Expires=1751831032&Signature=tLkrFl1PLF1~cLQQZbgJRvReqbifQC80PoBxjt7CfPxcMK3bjdh1VPu~TEGpa2S70XCqTUofPlUhR78e0IqgUpJ6AwB3LGbjtfigi5WP0VVi3g2yjs0zX1X8HbVa1ZBGmaUcyyRbpAl~EScoMkc5qmNhP3ACKkJ~DObb7LDMExXo0ElhG-QwLgzep1OaYLHfXkYlcyeiWAAXsvGDHqo4F~xa12xNPM~i03nx9PWiEDL2Q~JE~ncBhwE-HEUH8dlAFFs6yVLWLzFOsBteAofVCsKRaDeDYdlgLcGA5NFUYTPwyo3rc6lGAIzL88mglU53WXF77sKUG4S3TCiHGZDTBw__&Key-Pair-Id=APKAIFLZBVQZ24NQH3KA",
+      "description": "Director Ilya Naishuller, who broke out with his groundbreaking, POV action movie 'Hardcore Henry' (2015), is back with action buddy comedy 'Heads of State' starring Idris Elba, John Cena, Priyanka Chopra Jonas, and Jack Quaid. Naishuller explains what he needs on set to tackle a globetrotting film of this scale.",
+      "posterUrl": "https://m.media-amazon.com/images/M/MV5BNTI3MDkzNjctOTY2Ni00ZTJiLWI5N2ItNDI2MzI4MWJlMTMyXkEyXkFqcGc@._V1_QL75_UX140_CR0,0,140,207_.jpg",
+      "postUrl": "https://m.media-amazon.com/images/M/MV5BMWFlZjRjNDktY2Y1Yi00ODNhLWFkODktMGJjMGM3ZTUyNDgwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+      "trailerPostUrl": "https://m.media-amazon.com/images/M/MV5BNTlhOGQwMTAtNmY2My00Zjk4LTkwNGMtZWY0ODViYjUxN2QyXkEyXkFqcGdeQWFsZWxvZw@@._V1_SY720_QL75_.jpg&quot",
+      "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BMmFiOTFlNGUtMmQ0My00ZWQyLTk5NDgtMmEzN2MxMjQ1ZGIwXkEyXkFqcGdeQWFsZWxvZw@@._V1_QL40_QL75_UX500_CR0,0,500,281_.jpg",
+      "likeCount": "1.1K",
+      "reactions": {
+        "count": 14,
+        "smile": 2,
+        "light": 3,
+        "love": 6,
+        "wow": 1,
+        "sad": 1,
+        "angry": 1
+      },
+      "writers": [
+        "Michael Bacall",
+        "Stephen King",
+        "Edgar Wright"
+      ],
+      "director": "Edgar Wright",
+      "production": "Expected November 7, 2025",
+      "actors": [
+        "Glen Powell",
+        "Josh Brolin",
+        "Michael Cera"
+      ],
+      "countWishlist": "54.2K",
+      "year": 2025,
+      "genre": [
+        "Dark Comedy",
+        "Dystopian Sci-Fi",
+        "Thriller",
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+      ],
+      "videoCount": 1,
+      "photoCount": 9,
+      "preDescription": "A man joins a game show where contestants, allowed to go anywhere in the world, are pursued by 'hunters' hired to kill them."
+    }
+  ]
 }
