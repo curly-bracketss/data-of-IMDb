@@ -3,29 +3,28 @@ const jsonServer = require('json-server');
 const server = jsonServer.create();
 const router = jsonServer.router('db.json');
 const middlewares = jsonServer.defaults();
+const port = process.env.PORT || 5000;
 
 server.use(middlewares);
 
-// Middleware to inject random IDs into each movie
-const generateRandomId = () => Math.random().toString(36).substr(2, 9);
+// Custom route handler for /movies
+server.get('/movies', (req, res) => {
+  const db = router.db; // lowdb instance
+  const movies = db.get('movies').value();
 
-server.use((req, res, next) => {
-  if (req.method === 'GET' && req.url === '/movies') {
-    const db = router.db; // lowdb instance
-    const movies = db.get('movies').value();
+  const generateRandomId = () => Math.random().toString(36).substr(2, 9);
 
-    const moviesWithIds = movies.map(movie => ({
-      id: generateRandomId(),
-      ...movie
-    }));
+  const moviesWithIds = movies.map(movie => ({
+    id: generateRandomId(),
+    ...movie
+  }));
 
-    res.jsonp(moviesWithIds);
-  } else {
-    next(); // Let the default router handle everything else
-  }
+  res.jsonp(moviesWithIds);
 });
 
-server.use('', router);
-server.listen(process.env.PORT || 5000, () => {
-  console.log('JSON Server is running');
+// All other routes
+server.use(router);
+
+server.listen(port, () => {
+  console.log(`✅ JSON Server is running at http://localhost:${port}`);
 });
