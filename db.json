@@ -388,7 +388,7 @@
     ],
     "year": "1994",
     "rating": "9.3",
-    "genres": [
+    "genre": [
       "Epic",
       "Period Drama",
       "Prison Drama",
@@ -428,7 +428,7 @@
     ],
     "year": "1972",
     "rating": "9.2",
-    "genres": [
+    "genre": [
       "Epic",
       "Gangster",
       "Tragedy",
@@ -469,7 +469,7 @@
     ],
     "year": "2008",
     "rating": "9.0",
-    "genres": [
+    "genre": [
       "Action Epic",
       "Epic",
       "Superhero",
@@ -509,7 +509,7 @@
     ],
     "year": "1974",
     "rating": "9.0",
-    "genres": [
+    "genre": [
       "Epic",
       "Gangster",
       "Tragedy",
@@ -548,7 +548,7 @@
     ],
     "year": "1957",
     "rating": "9.0",
-    "genres": [
+    "genre": [
       "Legal Drama",
       "Psychological Drama",
       "Crime",
@@ -590,7 +590,7 @@
     ],
     "year": "2003",
     "rating": "9.0",
-    "genres": [
+    "genre": [
       "Action Epic",
       "Adventure Epic",
       "Epic",
@@ -630,7 +630,7 @@
     ],
     "year": "1993",
     "rating": "9.0",
-    "genres": [
+    "genre": [
       "Docudrama",
       "Epic",
       "Historical Epic",
@@ -671,7 +671,7 @@
     ],
     "year": "1994",
     "rating": "8.8",
-    "genres": [
+    "genre": [
       "Dark Comedy",
       "Drug Crime",
       "Gangster",
@@ -713,7 +713,7 @@
     ],
     "year": "2001",
     "rating": "8.9",
-    "genres": [
+    "genre": [
       "Action Epic",
       "Adventure Epic",
       "Dark Fantasy",
@@ -754,7 +754,7 @@
     ],
     "year": "1966",
     "rating": "8.8",
-    "genres": [
+    "genre": [
       "Adventure Epic",
       "Dark Comedy",
       "Desert Adventure",
@@ -793,7 +793,7 @@
     ],
     "year": "1994",
     "rating": "8.8",
-    "genres": [
+    "genre": [
       "Epic",
       "Drama",
       "Romance",
@@ -835,7 +835,7 @@
     ],
     "year": "2002",
     "rating": "8.8",
-    "genres": [
+    "genre": [
       "Action Epic",
       "Adventure Epic",
       "Dark Fantasy",
@@ -874,7 +874,7 @@
     ],
     "year": "1999",
     "rating": "8.8",
-    "genres": [
+    "genre": [
       "Dark Comedy",
       "Psychological Drama",
       "Psychological Thriller",
@@ -912,7 +912,7 @@
     ],
     "year": "2010",
     "rating": "8.8",
-    "genres": [
+    "genre": [
       "Action Epic",
       "Adventure Epic",
       "Epic",
@@ -952,7 +952,7 @@
     ],
     "year": "1980",
     "rating": "8.7",
-    "genres": [
+    "genre": [
       "Action Epic",
       "Adventure Epic",
       "Dark Fantasy",
@@ -991,7 +991,7 @@
     ],
     "year": "1999",
     "rating": "8.7",
-    "genres": [
+    "genre": [
       "Action Epic",
       "Artificial Intelligence",
       "Cyberpunk",
@@ -1030,7 +1030,7 @@
     ],
     "year": "1990",
     "rating": "8.7",
-    "genres": [
+    "genre": [
       "Docudrama",
       "Gangster",
       "True Crime",
@@ -1069,7 +1069,7 @@
     ],
     "year": "2014",
     "rating": "8.7",
-    "genres": [
+    "genre": [
       "Adventure Epic",
       "Epic",
       "Psychological Drama",
@@ -1109,7 +1109,7 @@
     ],
     "year": "1975",
     "rating": "8.7",
-    "genres": [
+    "genre": [
       "Medical Drama",
       "Psychological Drama",
       "Drama",
@@ -1147,7 +1147,7 @@
     ],
     "year": "1995",
     "rating": "8.6",
-    "genres": [
+    "genre": [
       "Cop Drama",
       "Hard-boiled Detective",
       "Police Procedural",
@@ -1188,7 +1188,7 @@
     ],
     "year": "1946",
     "rating": "8.6",
-    "genres": [
+    "genre": [
       "Feel-Good Romance",
       "Holiday Family",
       "Holiday Romance",
@@ -1227,7 +1227,7 @@
     ],
     "year": "1991",
     "rating": "8.6",
-    "genres": [
+    "genre": [
       "Police Procedural",
       "Psychological Drama",
       "Psychological Horror",
@@ -1267,7 +1267,7 @@
     ],
     "year": "1954",
     "rating": "8.6",
-    "genres": [
+    "genre": [
       "Action Epic",
       "Epic",
       "Period Drama",
@@ -1305,7 +1305,7 @@
     ],
     "year": "1998",
     "rating": "8.6",
-    "genres": [
+    "genre": [
       "Epic",
       "Period Drama",
       "War Epic",
@@ -1344,7 +1344,7 @@
     ],
     "year": "1999",
     "rating": "8.6",
-    "genres": [
+    "genre": [
       "Period Drama",
       "Prison Drama",
       "Supernatural Fantasy",
