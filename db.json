@@ -395,7 +395,8 @@
       "Drama",
       "Authentic emotion"
     ],
-    "trailerDuration":"3:02","duration": "2h 22m",
+    "trailerDuration": "3:02",
+    "duration": "2h 22m",
     "director": "Frank Darabont",
     "likeCount": 253,
     "reactions": {
@@ -405,7 +406,6 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion.",
@@ -413,7 +413,8 @@
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDAyY2FhYjctNDc5OS00MDNlLThiMGUtY2UxYWVkNGY2ZjljXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "id": "0111161",
     "videoSrc": "shawshankredemption",
-      "trailerPosterUrl":"https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_QL75_UX500_CR0,47,500,281_.jpg"
+    "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BNjQ2NDA3MDcxMF5BMl5BanBnXkFtZTgwMjE5NTU0NzE@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+    "category": "trending"
   },
   {
     "title": "The Godfather",
@@ -435,7 +436,8 @@
       "Crime",
       "Drama"
     ],
-    "trailerDuration":"3:02","duration": "2h 55m",
+    "trailerDuration": "3:02",
+    "duration": "2h 55m",
     "director": "Lenny Montana",
     "likeCount": 253,
     "reactions": {
@@ -445,7 +447,6 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",
@@ -453,7 +454,8 @@
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BNGEwYjgwOGQtYjg5ZS00Njc1LTk2ZGEtM2QwZWQ2NjdhZTE5XkEyXkFqcGc@._V1_QL75_UY281_CR4,0,190,281_.jpg",
     "id": "0068646",
     "videoSrc": "godfather",
-      "trailerPosterUrl":"https://m.media-amazon.com/images/M/MV5BYWNlN2U4YjQtMzI3NC00ZjkxLWEwMTItYWRlNDUxYTYwYjVlXkEyXkFqcGdeQWpvaG5oYXJ0._V1_QL75_UX500_CR0,0,500,281_.jpg"
+    "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BYWNlN2U4YjQtMzI3NC00ZjkxLWEwMTItYWRlNDUxYTYwYjVlXkEyXkFqcGdeQWpvaG5oYXJ0._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "category": "anticipated"
   },
   {
     "title": "The Dark Knight",
@@ -476,7 +478,8 @@
       "Tragedy",
       "Action"
     ],
-    "trailerDuration":"3:02","duration": "2h 32m",
+    "trailerDuration": "3:02",
+    "duration": "2h 32m",
     "director": "Christopher Nolan",
     "likeCount": 253,
     "reactions": {
@@ -486,7 +489,6 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness.",
@@ -494,7 +496,8 @@
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
     "id": "0468569",
     "videoSrc": "darkknight",
-      "trailerPosterUrl":"https://m.media-amazon.com/images/M/MV5BNWJkYWJlOWMtY2ZhZi00YWM0LTliZDktYmRiMGYwNzczMTZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg"
+    "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BNWJkYWJlOWMtY2ZhZi00YWM0LTliZDktYmRiMGYwNzczMTZhXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+    "category": "popular"
   },
   {
     "title": "The Godfather Part II",
@@ -516,7 +519,8 @@
       "Crime",
       "Drama"
     ],
-    "trailerDuration":"3:02","duration": "3h 22m",
+    "trailerDuration": "3:02",
+    "duration": "3h 22m",
     "director": "Francis Ford Coppola",
     "likeCount": 253,
     "reactions": {
@@ -526,7 +530,6 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.",
@@ -534,7 +537,8 @@
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDIxMzBlZDktZjMxNy00ZGI4LTgxNDEtYWRlNzRjMjJmOGQ1XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "id": "0071562",
     "videoSrc": "godfatherpart2",
-      "trailerPosterUrl":"https://m.media-amazon.com/images/M/MV5BNWE4YzY4OGMtZDM5YS00YWVkLTgwMDktNzVmOGU3NjEwMjNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg"
+    "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BNWE4YzY4OGMtZDM5YS00YWVkLTgwMDktNzVmOGU3NjEwMjNlXkEyXkFqcGdeQXVyNzU1NzE3NTg@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+    "category": "recently"
   },
   {
     "title": "12 Angry Men",
@@ -555,7 +559,8 @@
       "Drama",
       "Authentic emotion"
     ],
-    "trailerDuration":"3:02","duration": "1h 36m",
+    "trailerDuration": "3:02",
+    "duration": "1h 36m",
     "director": "Sidney Lumet",
     "likeCount": 253,
     "reactions": {
@@ -565,7 +570,6 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
@@ -573,7 +577,8 @@
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjE4NzdmOTYtYjc5Yi00YzBiLWEzNDEtNTgxZGQ2MWVkN2NiXkEyXkFqcGc@._V1_QL75_UX190_CR0,6,190,281_.jpg",
     "id": "0050083",
     "videoSrc": "twelveangrymen",
-      "trailerPosterUrl":"https://m.media-amazon.com/images/M/MV5BNGRlZjVhNWMtOTUxYi00MTYxLWEzOWUtMTM1NDc3ZWRjMDZjXkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX500_CR0,0,500,281_.jpg"
+    "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BNGRlZjVhNWMtOTUxYi00MTYxLWEzOWUtMTM1NDc3ZWRjMDZjXkEyXkFqcGdeQWRpZWdtb25n._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "category": "trending"
   },
   {
     "title": "The Lord of the Rings: The Return of the King",
@@ -597,7 +602,8 @@
       "Fantasy Epic",
       "Mountain Adventure"
     ],
-    "trailerDuration":"3:02","duration": "3h 21m",
+    "trailerDuration": "3:02",
+    "duration": "3h 21m",
     "director": "Peter Jackson",
     "likeCount": 253,
     "reactions": {
@@ -607,7 +613,6 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
@@ -615,7 +620,8 @@
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTZkMjBjNWMtZGI5OC00MGU0LTk4ZTItODg2NWM3NTVmNWQ4XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
     "id": "0167260",
     "videoSrc": "lotrreturnking",
-      "trailerPosterUrl":"https://m.media-amazon.com/images/M/MV5BNDRmNjQxOWItNTY3MS00M2ExLWJiYWYtNGQ2OTI5MWRkYWFlXkEyXkFqcGdeQWxiaWFtb250._V1_QL75_UX500_CR0,0,500,281_.jpg"
+    "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BNDRmNjQxOWItNTY3MS00M2ExLWJiYWYtNGQ2OTI5MWRkYWFlXkEyXkFqcGdeQWxiaWFtb250._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "category": "anticipated"
   },
   {
     "title": "Schindler's List",
@@ -637,7 +643,8 @@
       "Period Drama",
       "Prison Drama"
     ],
-    "trailerDuration":"3:02","duration": "3h 15m",
+    "trailerDuration": "3:02",
+    "duration": "3h 15m",
     "director": "Steven Spielberg",
     "likeCount": 253,
     "reactions": {
@@ -647,7 +654,6 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis.",
@@ -655,8 +661,8 @@
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BNjM1ZDQxYWUtMzQyZS00MTE1LWJmZGYtNGUyNTdlYjM3ZmVmXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "id": "0108052",
     "videoSrc": "schindlerslist",
-      "trailerPosterUrl":"https://m.media-amazon.com/images/M/MV5BOTIxMTUzMmUtODU2MS00MDhjLTlmMGQtMzNhZTFhOTI5ZjE5XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_QL75_UX500_CR0,47,500,281_.jpg"
-      
+    "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BOTIxMTUzMmUtODU2MS00MDhjLTlmMGQtMzNhZTFhOTI5ZjE5XkEyXkFqcGdeQXRoaXJkLXBhcnR5LXZpZGVvLXVwZGF0ZXI@._V1_QL75_UX500_CR0,47,500,281_.jpg",
+    "category": "popular"
   },
   {
     "title": "Pulp Fiction",
@@ -678,7 +684,8 @@
       "Crime",
       "Drama"
     ],
-    "trailerDuration":"3:02","duration": "2h 34m",
+    "trailerDuration": "3:02",
+    "duration": "2h 34m",
     "director": "Quentin Tarantino",
     "likeCount": 253,
     "reactions": {
@@ -688,7 +695,6 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
@@ -696,7 +702,8 @@
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BYTViYTE3ZGQtNDBlMC00ZTAyLTkyODMtZGRiZDg0MjA2YThkXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
     "id": "0110912",
     "videoSrc": "pulpfiction",
-      "trailerPosterUrl":"https://m.media-amazon.com/images/M/MV5BMjI5MzgxMTQ4M15BMl5BanBnXkFtZTgwNjczMTk0NzE@._V1_QL75_UX500_CR0,0,500,281_.jpg"
+    "trailerPosterUrl": "https://m.media-amazon.com/images/M/MV5BMjI5MzgxMTQ4M15BMl5BanBnXkFtZTgwNjczMTk0NzE@._V1_QL75_UX500_CR0,0,500,281_.jpg",
+    "category": "recently"
   },
   {
     "title": "The Lord of the Rings: The Fellowship of the Ring",
@@ -720,7 +727,8 @@
       "Epic",
       "Fantasy Epic"
     ],
-    "trailerDuration":"3:02","duration": "2h 58m",
+    "trailerDuration": "3:02",
+    "duration": "2h 58m",
     "director": "Peter Jackson",
     "likeCount": 253,
     "reactions": {
@@ -730,14 +738,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "A meek Hobbit from the Shire and eight companions set out on a journey to destroy the powerful One Ring and save Middle-earth from the Dark Lord Sauron.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BNzIxMDQ2YTctNDY4MC00ZTRhLTk4ODQtMTVlOWY4NTdiYmMwXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
     "id": "0120737",
-    "videoSrc": "lotrfellowship"
+    "videoSrc": "lotrfellowship",
+    "category": "trending"
   },
   {
     "title": "The Good, the Bad and the Ugly",
@@ -761,7 +769,8 @@
       "Epic",
       "Period Drama"
     ],
-    "trailerDuration":"3:02","duration": "2h 58m",
+    "trailerDuration": "3:02",
+    "duration": "2h 58m",
     "director": "Sergio Leone",
     "likeCount": 253,
     "reactions": {
@@ -771,14 +780,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "A bounty-hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMWM5ZjQxM2YtNDlmYi00ZDNhLWI4MWUtN2VkYjBlMTY1ZTkwXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "id": "0060196",
-    "videoSrc": "goodbadugly"
+    "videoSrc": "goodbadugly",
+    "category": "anticipated"
   },
   {
     "title": "Forrest Gump",
@@ -800,7 +809,8 @@
       "Comedic brilliance",
       "Friendship"
     ],
-    "trailerDuration":"3:02","duration": "2h 22m",
+    "trailerDuration": "3:02",
+    "duration": "2h 22m",
     "director": "Robert Zemeckis",
     "likeCount": 253,
     "reactions": {
@@ -810,14 +820,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDYwNzVjMTItZmU5YS00YjQ5LTljYjgtMjY2NDVmYWMyNWFmXkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
     "id": "0109830",
-    "videoSrc": "forrestgump"
+    "videoSrc": "forrestgump",
+    "category": "popular"
   },
   {
     "title": "The Lord of the Rings: The Two Towers",
@@ -842,7 +852,8 @@
       "Epic",
       "Fantasy Epic"
     ],
-    "trailerDuration":"3:02","duration": "2h 59m",
+    "trailerDuration": "3:02",
+    "duration": "2h 59m",
     "director": "Peter Jackson",
     "likeCount": 253,
     "reactions": {
@@ -852,14 +863,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "While Frodo and Sam edge closer to Mordor with the help of the shifty Gollum, the divided fellowship makes a stand against Sauron's new ally, Saruman, and his hordes of Isengard.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGQxMDdiOWUtYjc1Ni00YzM1LWE2NjMtZTg3Y2JkMjEzMTJjXkEyXkFqcGc@._V1_QL75_UX190_CR0,7,190,281_.jpg",
     "id": "0167261",
-    "videoSrc": "lotrtwotowers"
+    "videoSrc": "lotrtwotowers",
+    "category": "recently"
   },
   {
     "title": "Fight Club",
@@ -881,7 +892,8 @@
       "Workplace Drama",
       "Crime"
     ],
-    "trailerDuration":"3:02","duration": "2h 19m",
+    "trailerDuration": "3:02",
+    "duration": "2h 19m",
     "director": "David Fincher",
     "likeCount": 253,
     "reactions": {
@@ -891,14 +903,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BOTgyOGQ1NDItNGU3Ny00MjU3LTg2YWEtNmEyYjBiMjI1Y2M5XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "id": "0137523",
-    "videoSrc": "fightclub"
+    "videoSrc": "fightclub",
+    "category": "trending"
   },
   {
     "title": "Inception",
@@ -919,7 +931,8 @@
       "Psychological Thriller",
       "Sci-Fi Epic"
     ],
-    "trailerDuration":"3:02","duration": "2h 28m",
+    "trailerDuration": "3:02",
+    "duration": "2h 28m",
     "director": "Christopher Nolan",
     "likeCount": 253,
     "reactions": {
@@ -929,14 +942,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_QL75_UX190_CR0,0,190,281_.jpg",
     "id": "1375666",
-    "videoSrc": "inception"
+    "videoSrc": "inception",
+    "category": "anticipated"
   },
   {
     "title": "Star Wars: Episode V - The Empire Strikes Back",
@@ -959,7 +972,8 @@
       "Dystopian Sci-Fi",
       "Epic"
     ],
-    "trailerDuration":"3:02","duration": "2h 4m",
+    "trailerDuration": "3:02",
+    "duration": "2h 4m",
     "director": "Irvin Kershner",
     "likeCount": 253,
     "reactions": {
@@ -969,14 +983,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "After the Empire overpowers the Rebel Alliance, Luke Skywalker begins training with Jedi Master Yoda, while Darth Vader and bounty hunter Boba Fett pursue his friends across the galaxy.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTkxNGFlNDktZmJkNC00MDdhLTg0MTEtZjZiYWI3MGE5NWIwXkEyXkFqcGc@._V1_QL75_UX190_CR0,7,190,281_.jpg",
     "id": "0080684",
-    "videoSrc": "starwarsempire"
+    "videoSrc": "starwarsempire",
+    "category": "popular"
   },
   {
     "title": "The Matrix",
@@ -998,7 +1012,8 @@
       "Dystopian Sci-Fi",
       "Gun Fu"
     ],
-    "trailerDuration":"3:02","duration": "2h 16m",
+    "trailerDuration": "3:02",
+    "duration": "2h 16m",
     "director": "Lana Wachowski & Lilly Wachowskil",
     "likeCount": 253,
     "reactions": {
@@ -1008,14 +1023,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2NmN2VhMTQtMDNiOS00NDlhLTliMjgtODE2ZTY0ODQyNDRhXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "id": "0133093",
-    "videoSrc": "matrix"
+    "videoSrc": "matrix",
+    "category": "recently"
   },
   {
     "title": "Goodfellas",
@@ -1037,7 +1052,8 @@
       "Biography",
       "Crime"
     ],
-    "trailerDuration":"3:02","duration": "2h 25m",
+    "trailerDuration": "3:02",
+    "duration": "2h 25m",
     "director": "Martin Scorsese",
     "likeCount": 253,
     "reactions": {
@@ -1047,14 +1063,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BN2E5NzI2ZGMtY2VjNi00YTRjLWI1MDUtZGY5OWU1MWJjZjRjXkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
     "id": "0099685",
-    "videoSrc": "goodfellas"
+    "videoSrc": "goodfellas",
+    "category": "trending"
   },
   {
     "title": "Interstellar",
@@ -1076,7 +1092,8 @@
       "Quest",
       "Sci-Fi Epic"
     ],
-    "trailerDuration":"3:02","duration": "2h 49m",
+    "trailerDuration": "3:02",
+    "duration": "2h 49m",
     "director": "Kip Thorne",
     "likeCount": 253,
     "reactions": {
@@ -1086,14 +1103,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
     "id": "0816692",
-    "videoSrc": "interstellar"
+    "videoSrc": "interstellar",
+    "category": "anticipated"
   },
   {
     "title": "One Flew Over the Cuckoo's Nest",
@@ -1116,7 +1133,8 @@
       "Freedom",
       "Iconic performance"
     ],
-    "trailerDuration":"3:02","duration": "2h 13m",
+    "trailerDuration": "3:02",
+    "duration": "2h 13m",
     "director": "Milos Forman",
     "likeCount": 253,
     "reactions": {
@@ -1126,14 +1144,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "A rebellious convict is sent to a psychiatric hospital for evaluation in 1963 Oregon, and encourages his docile companions to take more control of their lives and defy the tyrannical head nurse.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BYjBkMjgzMzYtNzRiMS00NDc3LWE4YTUtZjYxYjZhNjNhYzhhXkEyXkFqcGc@._V1_QL75_UX190_CR0,0,190,281_.jpg",
     "id": "0073486",
-    "videoSrc": "oneflewover"
+    "videoSrc": "oneflewover",
+    "category": "popular"
   },
   {
     "title": "Se7en",
@@ -1154,7 +1172,8 @@
       "Psychological Drama",
       "Psychological Thriller"
     ],
-    "trailerDuration":"3:02","duration": "2h 7m",
+    "trailerDuration": "3:02",
+    "duration": "2h 7m",
     "director": "David Fincher",
     "likeCount": 253,
     "reactions": {
@@ -1164,14 +1183,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BY2IzNzMxZjctZjUxZi00YzAxLTk3ZjMtODFjODdhMDU5NDM1XkEyXkFqcGc@._V1_QL75_UX190_CR0,8,190,281_.jpg",
     "id": "0114369",
-    "videoSrc": "se7en"
+    "videoSrc": "se7en",
+    "category": "recently"
   },
   {
     "title": "It's a Wonderful Life",
@@ -1195,7 +1214,8 @@
       "Psychological Drama",
       "Supernatural Fantasy"
     ],
-    "trailerDuration":"3:02","duration": "2h 10m",
+    "trailerDuration": "3:02",
+    "duration": "2h 10m",
     "director": "Donna Reed",
     "likeCount": 253,
     "reactions": {
@@ -1205,14 +1225,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMDM4OWFhYjEtNTE5Yy00NjcyLTg5N2UtZDQwNDZlYjlmNDU5XkEyXkFqcGc@._V1_QL75_UY281_CR2,0,190,281_.jpg",
     "id": "0038650",
-    "videoSrc": "wonderfullife"
+    "videoSrc": "wonderfullife",
+    "category": "trending"
   },
   {
     "title": "The Silence of the Lambs",
@@ -1234,7 +1254,8 @@
       "Psychological Thriller",
       "Serial Killer"
     ],
-    "trailerDuration":"3:02","duration": "1h 58m",
+    "trailerDuration": "3:02",
+    "duration": "1h 58m",
     "director": "Roger Corman",
     "likeCount": 253,
     "reactions": {
@@ -1244,14 +1265,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BNDdhOGJhYzctYzYwZC00YmI2LWI0MjctYjg4ODdlMDExYjBlXkEyXkFqcGc@._V1_QL75_UY281_CR0,0,190,281_.jpg",
     "id": "0102926",
-    "videoSrc": "silencelambs"
+    "videoSrc": "silencelambs",
+    "category": "anticipated"
   },
   {
     "title": "Seven Samurai",
@@ -1274,7 +1295,8 @@
       "Samurai",
       "Action"
     ],
-    "trailerDuration":"3:02","duration": "3h 27m",
+    "trailerDuration": "3:02",
+    "duration": "3h 27m",
     "director": "Akira Kurosawa",
     "likeCount": 253,
     "reactions": {
@@ -1284,14 +1306,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "Farmers from a village exploited by bandits hire a veteran samurai for protection, and he gathers six other samurai to join him.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BZjliMWExOTMtZDQ3ZS00NWU3LWIyN2EtMjllNzk3ZTNlYzg4XkEyXkFqcGc@._V1_QL75_UY281_CR5,0,190,281_.jpg",
     "id": "0047478",
-    "videoSrc": "sevensamurai"
+    "videoSrc": "sevensamurai",
+    "category": "popular"
   },
   {
     "title": "Saving Private Ryan",
@@ -1312,7 +1334,8 @@
       "Drama",
       "War"
     ],
-    "trailerDuration":"3:02","duration": "2h 49m",
+    "trailerDuration": "3:02",
+    "duration": "2h 49m",
     "director": "Steven Spielberg",
     "likeCount": 253,
     "reactions": {
@@ -1322,14 +1345,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose comrades have been killed in action.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BZGZhZGQ1ZWUtZTZjYS00MDJhLWFkYjctN2ZlYjE5NWYwZDM2XkEyXkFqcGc@._V1_QL75_UY281_CR1,0,190,281_.jpg",
     "id": "0120815",
-    "videoSrc": "savingprivateryan"
+    "videoSrc": "savingprivateryan",
+    "category": "recently"
   },
   {
     "title": "The Green Mile",
@@ -1351,7 +1374,8 @@
       "Tragedy",
       "Crime"
     ],
-    "trailerDuration":"3:02","duration": "3h 9m",
+    "trailerDuration": "3:02",
+    "duration": "3h 9m",
     "director": "Frank Darabont",
     "likeCount": 253,
     "reactions": {
@@ -1361,14 +1385,14 @@
       "love": 38,
       "wow": 13
     },
-   
     "videoCount": 1,
     "photoCount": 1,
     "description": "A death row guard learns that a gentle giant in his charge possesses a mysterious gift.",
     "countWishlist": 54200,
     "posterUrl": "https://m.media-amazon.com/images/M/MV5BMTUxMzQyNjA5MF5BMl5BanBnXkFtZTYwOTU2NTY3._V1_QL75_UX190_CR0,0,190,281_.jpg",
     "id": "0120689",
-    "videoSrc": "greenmile"
+    "videoSrc": "greenmile",
+    "category": "trending"
   }
- ]
+]
 }
