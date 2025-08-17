@@ -205,6 +205,48 @@
             }
         
     ],
+    "moreExplore":[
+  {
+    "name": "Top box office (US)",
+    "url": "/chart/boxoffice",
+    "description": "From the past weekend"
+  },
+        {
+    "name": "IMDb Top 250 movies",
+    "url": "/chart/top",
+    "description": "As rated by regular IMDb voters."
+  },
+  {
+    "name": "Most popular movies",
+    "url": "/chart/moviemeter",
+    "description": "As determined by IMDb users"
+  },
+  {
+    "name": "Top rated English movies",
+    "url": "/chart/top-english-movies",
+    "description": "English-language movies as rated by IMDb users"
+  },
+  {
+    "name": "Most popular TV shows",
+    "url": "/chart/tvmeter",
+    "description": "As determined by IMDb users"
+  },
+  {
+    "name": "Top 250 TV shows",
+    "url": "/chart/toptv",
+    "description": "Top 250 as rated by IMDb users"
+  },
+  {
+    "name": "Lowest rated movies",
+    "url": "/chart/bottom",
+    "description": "Bottom 100 as voted by IMDb users"
+  },
+  {
+    "name": "Most popular celebs",
+    "url": "/search/name/starmeter",
+    "description": "As determined by IMDb users"
+  }
+],
     "swiper": [
     {
       "id": "c4f7a95e-0d29-4d2b-85dc-45a77c08b3fb",
