@@ -200,7 +200,7 @@
                 "role": "super_admin",
                 "createdAt": "2025-01-01T00:00:00.000Z",
                 "isActive": true,
-                "lastLogin": null,"watchList":[]
+                "lastLogin": null,"watchList":[],"watchHistory":[],"rateHistory":[]
             },
           {
     "name": "Hamish Byers",
@@ -211,7 +211,7 @@
     "role": "user",
     "createdAt": "2025-08-20T19:56:11.079Z",
     "isActive": true,
-    "lastLogin": null,"watchList":[]
+    "lastLogin": null,"watchList":[],"watchHistory":[],"rateHistory":[]
   },
          {
     "name": "Chaney Buck",
@@ -222,7 +222,7 @@
     "role": "user",
     "createdAt": "2025-08-20T19:56:35.944Z",
     "isActive": true,
-    "lastLogin": null,"watchList":[]
+    "lastLogin": null,"watchList":[],"watchHistory":[],"rateHistory":[]
   }
         
     ],
